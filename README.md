@@ -10,9 +10,10 @@ I love to create softwares and programs and hope to materialize that into a tech
 
 - 💿 Remix
 - 🧾 TypeScript
-- 🪓 C#
+- 🎯 C#/Unity
 - ⚛ React
 - ⚙ Node
+...and much more! 😄
 
 ## 🔗 Links
 
