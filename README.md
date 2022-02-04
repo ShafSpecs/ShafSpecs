@@ -6,7 +6,7 @@ A developer by passion, I am a tech enthusiast who hopes to make the world a bet
 
 I love to create softwares and programs and hope to materialize that into a tech company. Besides coding, I love to read, walk and meet new people.
 
-## 😎 Curretly vibing with:
+## 😎 Currently vibing with:
 
 - 💿 Remix
 - 🧾 TypeScript
