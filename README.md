@@ -1,3 +1,5 @@
+![ShafSpecs](https://ucarecdn.com/4293195b-df49-4886-ab16-3b045b3fb185/Freecodecamp.png)
+
 ### Hi there 👋, I'm Abdur-Rahman.
 
 A developer by passion, I am a tech enthusiast who hopes to make the world a better place with my ever-growing skills.
