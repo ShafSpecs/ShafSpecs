@@ -16,9 +16,9 @@ I love to create softwares and programs and hope to materialize that into a tech
 
 ## 🔗 Links
 
-- 🐤(Twitter)[https://twitter.com/ShafSpecs]
-- 🔳(Codepen)[https://codepen.io/Abdur-Rahman73]
-- 👩‍💻(DEV.to)[https://dev.to/shafspecs]
+- 🐤[Twitter](https://twitter.com/ShafSpecs)
+- 🔳[Codepen](https://codepen.io/Abdur-Rahman73)
+- 👩‍💻[DEV.to](https://dev.to/shafspecs)
 
 <!--
 **ShafSpecs/ShafSpecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
