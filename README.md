@@ -13,6 +13,7 @@ I love to create softwares and programs and hope to materialize that into a tech
 - 🎯 C#/Unity
 - ⚛ React
 - ⚙ Node
+
 ...and much more! 😄
 
 ## 🔗 Links
