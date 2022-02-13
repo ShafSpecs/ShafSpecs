@@ -21,6 +21,7 @@ I love to create softwares and programs and hope to materialize that into a tech
 - 🐤[Twitter](https://twitter.com/ShafSpecs)
 - 🔳[Codepen](https://codepen.io/Abdur-Rahman73)
 - 👩‍💻[DEV.to](https://dev.to/shafspecs)
+- ☕[Buy Me A Coffee](https://buymeacoffe.com/shafspecs)
 
 <!--
 **ShafSpecs/ShafSpecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
