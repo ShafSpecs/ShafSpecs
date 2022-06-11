@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Abdur-Rahman.
 
-16 years old graduate. A developer by passion, I am a tech enthusiast who hopes to make the world a better place with my ever-growing skills.
+17 years old graduate. A developer by passion, I am a tech enthusiast who hopes to make the world a better place with my ever-growing skills.
 
 I love to create softwares and programs and just immerse myself into Open Source. Besides coding, I love to read, walk and meet new people.
 
