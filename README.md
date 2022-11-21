@@ -9,9 +9,11 @@ I love to create softwares and programs and just immerse myself into Open Source
 ## 😎 Currently vibing with:
 
 - 💿 Remix
+- 🐻 Golang
 - 🧾 TypeScript
 - 🎯 C#/Unity
-- ⚛ React
+- 🍵 Java
+- 🐍 Python
 - ⚙ Node
 
 ...and much more! 😄
