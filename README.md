@@ -9,12 +9,12 @@ I love to create softwares and programs and just immerse myself into Open Source
 ## 😎 Currently vibing with:
 
 - 💿 Remix
+- 🦀 Rust
 - 🐻 Golang
 - 🧾 TypeScript
 - 🎯 C#/Unity
 - 🍵 Java
 - 🐍 Python
-- ⚙ Node
 
 ...and much more! 😄
 
