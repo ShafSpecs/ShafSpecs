@@ -19,7 +19,7 @@ I love to create softwares and programs and just immerse myself into Open Source
 
 ...and much more! 😄
 
-## 🔗 Links
+<!-- ## 🔗 Links -->
 
 <!-- - 🚀[ShafSpecs](https://shafspecs.fly.dev/) - *outdated* -->
 
